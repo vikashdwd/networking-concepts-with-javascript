@@ -1,0 +1,19 @@
+{
+  "name": "play_with_cookies",
+  "version": "1.0.0",
+  "description": "This is just to understand working of cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "workspaces": [
+    "packages/react-app"
+  ],
+  "author": "Vikash Dwivedi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-app": "^1.1.2",
+    "workspace": "0.0.1-preview.1"
+  }
+}
