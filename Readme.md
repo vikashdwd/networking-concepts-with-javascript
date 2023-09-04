@@ -1,7 +1,7 @@
-## A Project to understand networking through javascript
+# A Project to understand networking through javascript
 
-# Command to run fe workspace:
+## Command to run fe workspace:
 
-'''
-npm -w blog-caches-tutorial run dev
-'''
+
+`npm -w blog-caches-tutorial run dev`
+
