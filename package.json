@@ -1,13 +1,14 @@
 {
   "name": "networking-concepts-with-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "To experiment with different networking concepts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    
+    "test": "test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Vikash Dwivedi",
+  "license": "ISC",
+  "workspaces":[
+    "./apps/blog-caches-tutorial"
+  ]
 }
